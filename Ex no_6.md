@@ -13,7 +13,7 @@ To write a C Program to print the string "KEYBOARD" n number of times.
 ## Program:
 ```
 /*
-Program to write a C Program to print the string "KEYBOARD" n number of times.
+Program to print the string "KEYBOARD" n number of times.
 Developed by: 
 RegisterNumber:  
 */
