@@ -13,7 +13,7 @@ To write a C program to find the factorial of a given number using a function wi
 ## Program:
 ```
 /*
-Program to write a C program to find the factorial of a given number using a function with arguments and return type.
+Program to find the factorial of a given number using a function with arguments and return type.
 Developed by: 
 RegisterNumber:  
 */
