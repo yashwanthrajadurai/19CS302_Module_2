@@ -13,7 +13,7 @@ To write a C Program to Print a right triangle star Pattern
 ## Program:
 ```
 /*
-Program to write a C Program to Print a right triangle star Pattern
+Program to Print a right triangle star Pattern
 Developed by: 
 RegisterNumber:  
 */
